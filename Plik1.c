@@ -1,5 +1,5 @@
-//CO TO JESST ZA progrtam ja siê pytam???
-// Data: 11.02.2012
+// Program testowy dla list jednokierunkowych
+// WOWOWOOWOOWWWo jest cos tu nowego ?
 // (C)2012 mgr Jerzy Wa³aszek
 //-------------------------------------------
 
