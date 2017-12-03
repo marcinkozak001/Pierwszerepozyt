@@ -1,5 +1,5 @@
 // Program testowy dla list jednokierunkowych
-// BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 // (C)2012 mgr Jerzy Wa³aszek
 //-------------------------------------------
 
